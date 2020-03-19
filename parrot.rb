@@ -6,5 +6,5 @@ def parrot(input)
   if input==""
     puts "Squawk!"
   end
-  return inpu
+  return input
 end
