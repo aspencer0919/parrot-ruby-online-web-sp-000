@@ -3,5 +3,8 @@
 
 def parrot(input)
   puts "{input}"
-
+  if input == ""
+    puts "Squawk!"
+  end
+  return inpu
 end
